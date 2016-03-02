@@ -11,4 +11,4 @@ To have code we can use for hands on exercises. We are also using this to see ho
 This section will be different on the conflictbranch.
 
 ##Method
-How will we resolve this conflict, since the "base" now has a conflict in it?
+How will we resolve this conflict, since the "base" now has a conflict in it? 
